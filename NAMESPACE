@@ -2,3 +2,4 @@
 
 export(getHello)
 export(getRand)
+export(getRandN)

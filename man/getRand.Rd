@@ -21,4 +21,4 @@ v = getRand(10)
 \author{
 Lin Chen, \email{lin.chen@ieee.org}
 }
-\keyword{cats}
+\keyword{rand}
