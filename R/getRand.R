@@ -12,3 +12,8 @@ getRand <- function(n)
 {
 	return(runif(n))
 }
+
+getRandN <- function(n, s)
+{
+	return(runif(n)*s)
+}
